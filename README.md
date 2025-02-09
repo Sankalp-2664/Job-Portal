@@ -33,3 +33,11 @@ Job-Portal/
 │   ├── test/                  # Unit tests
 │── pom.xml                    # Maven project descriptor
 │── README.md                  # Project documentation
+```
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any inquiries or support, please contact Sankalp at `chakresankalp26@gmail.com`.
