@@ -34,9 +34,6 @@ Job-Portal/
 │── pom.xml                    # Maven project descriptor
 │── README.md                  # Project documentation
 ```
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
